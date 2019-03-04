@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"知道这是啥嘛");
+    NSLog(@"谁也不知道这是啥,你个小傻瓜");
 }
 
 
